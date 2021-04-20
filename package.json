@@ -1,0 +1,29 @@
+{
+    "name": "CallBot",
+    "version": "1.0.0",
+    "main": "callbot.js",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "node-telegram-bot-api": "^0.51.0",
+        "nodemailer": "^6.4.18",
+        "nodemon": "^2.0.7",
+        "twilio": "^3.55.1"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "dev": "nodemon callbot.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Comtel-git/comtelbot.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Comtel-git/comtelbot/issues"
+    },
+    "homepage": "https://github.com/Comtel-git/comtelbot#readme",
+    "description": ""
+}
